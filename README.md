@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 
 - 👋 Hi, I'm **Abhishek Dwivedi**
-- 🤖 AI/ML Engineer at **ITSYBIZZ AI**
+- 🤖 AI/ML Engineer @ **ITSYBIZZ AI**
 - 🎓 B.Tech in Computer Science & Engineering (AI & ML)
 - 📍 Noida, India 🇮🇳
 - 🔭 Working on: **[e.g. LLM applications / RAG pipelines / model deployment]**
@@ -65,6 +65,17 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=abhi-sk7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhi-sk7/abhi-sk7/output/github-snake-dark.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/abhi-sk7/abhi-sk7/output/github-snake.svg" />
+  </picture>
 </div>
 
 <br/>
