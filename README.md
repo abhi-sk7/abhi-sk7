@@ -1,16 +1,80 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abhi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%40%20ITSYBIZZ%20AI&descAlignY=60&descSize=18" width="100%" />
+</div>
 
-<!--
-**abhi-sk7/abhi-sk7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;B.Tech+CSE+(AI+%26+ML);Building+intelligent+systems;Turning+data+into+products" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🤖 AI/ML Engineer at **ITSYBIZZ AI**
+- 🎓 B.Tech in Computer Science & Engineering (AI & ML)
+- 📍 Noida, India 🇮🇳
+- 🔭 Working on: **[e.g. LLM applications / RAG pipelines / model deployment]**
+- 🌱 Learning: **[e.g. AI Agents, Fine-tuning, MLOps]**
+- 💬 Ask me about: **Machine Learning, Deep Learning, NLP, Python**
+
+<br/>
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Databases
+<img src="https://skillicons.dev/icons?i=python,cpp,js,mysql,postgres,mongodb&theme=dark" />
+
+### 🧠 Machine Learning & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🤖 Generative AI & NLP
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 📊 Data Analysis & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 🚀 Deployment & Tools
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,aws,git,github,linux,vscode&theme=dark" />
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+<br/>
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Project 1](https://github.com/abhi-sk7/REPO-NAME) | One-line description | Python, PyTorch |
+| [Project 2](https://github.com/abhi-sk7/REPO-NAME) | One-line description | LLM, LangChain |
+| [Project 3](https://github.com/abhi-sk7/REPO-NAME) | One-line description | FastAPI, Docker |
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhi-sk7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-sk7&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+## 📫 Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/YOUR-ID"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
