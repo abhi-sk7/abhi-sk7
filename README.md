@@ -1,5 +1,6 @@
+<!-- OPENING BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&section=header&text=Abhi&fontSize=70&fontAlign=50&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%40%20ITSYBIZZ%20AI&descSize=20&descAlign=50&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:4b1d8f,100:c026d3&section=header&text=Abhishek%20Dwivedi&fontSize=60&fontAlign=50&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%40%20ITSYBIZZ%20AI&descSize=20&descAlign=50&descAlignY=65" width="100%" />
 </div>
 
 <div align="center">
@@ -10,6 +11,7 @@
 
 ## 👨‍💻 About Me
 
+- 👋 Hi, I'm **Abhishek Dwivedi**
 - 🤖 AI/ML Engineer at **ITSYBIZZ AI**
 - 🎓 B.Tech in Computer Science & Engineering (AI & ML)
 - 📍 Noida, India 🇮🇳
@@ -62,7 +64,7 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abhi-sk7&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=abhi-sk7&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -77,11 +79,11 @@
 
 <br/>
 
-<!-- CLOSING -->
+<!-- CLOSING BANNER -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=C084FC&center=true&vCenter=true&width=500&lines=Keep+learning.+Keep+building.+%F0%9F%9A%80;Thanks+for+stopping+by!+%E2%9C%A8" alt="closing" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&section=footer&reversal=true&text=Thank%20You%20%E2%9C%A8&fontSize=45&fontAlign=50&fontAlignY=55&desc=Let's%20build%20something%20great%20together&descSize=16&descAlign=50&descAlignY=75" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:4b1d8f,100:c026d3&section=header&reversal=true&text=Thank%20You%20%E2%9C%A8&fontSize=45&fontAlign=50&fontAlignY=50&desc=Let's%20build%20something%20great%20together&descSize=16&descAlign=50&descAlignY=68" width="100%" />
 </div>
