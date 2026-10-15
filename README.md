@@ -1,10 +1,10 @@
 <!-- OPENING BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:4b1d8f,100:c026d3&section=header&text=Abhishek%20Dwivedi&fontSize=60&fontAlign=50&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%40%20ITSYBIZZ%20AI&descSize=20&descAlign=50&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00c6ff,100:0072ff&section=header&text=Abhishek%20Dwivedi&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%40%20ITSYBIZZ%20AI&descSize=20&descColor=ffffff&descAlign=50&descAlignY=65" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;B.Tech+CSE+(AI+%26+ML);Building+intelligent+systems;Turning+data+into+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;B.Tech+CSE+(AI+%26+ML);Building+intelligent+systems;Turning+data+into+products" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -55,8 +55,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhi-sk7&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-sk7&layout=compact&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhi-sk7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-sk7&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
@@ -64,7 +64,7 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abhi-sk7&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=abhi-sk7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -81,9 +81,9 @@
 
 <!-- CLOSING BANNER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=C084FC&center=true&vCenter=true&width=500&lines=Keep+learning.+Keep+building.+%F0%9F%9A%80;Thanks+for+stopping+by!+%E2%9C%A8" alt="closing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=00D4FF&center=true&vCenter=true&width=500&lines=Keep+learning.+Keep+building.+%F0%9F%9A%80;Thanks+for+stopping+by!+%E2%9C%A8" alt="closing" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:4b1d8f,100:c026d3&section=header&reversal=true&text=Thank%20You%20%E2%9C%A8&fontSize=45&fontAlign=50&fontAlignY=50&desc=Let's%20build%20something%20great%20together&descSize=16&descAlign=50&descAlignY=68" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0072ff,100:00c6ff&section=header&reversal=true&text=Thank%20You%20%E2%9C%A8&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=50&desc=Let's%20build%20something%20great%20together&descSize=16&descColor=ffffff&descAlign=50&descAlignY=68" width="100%" />
 </div>
