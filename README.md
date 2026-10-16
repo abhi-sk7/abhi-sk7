@@ -92,9 +92,5 @@
 
 <!-- CLOSING BANNER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=969BFF&center=true&vCenter=true&width=500&lines=Keep+learning.+Keep+building.+%F0%9F%9A%80;Thanks+for+stopping+by!+%E2%9C%A8" alt="closing" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:08080C,30:10132A,65:29245A,100:635BFF&section=footer&reversal=true&text=Thank%20You%20%E2%9C%A8&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:08080C,30:10132A,65:29245A,100:635BFF&section=footer&reversal=true" width="100%" />
 </div>
