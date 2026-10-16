@@ -1,6 +1,6 @@
 <!-- OPENING BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:00c6ff,100:0072ff&section=header&text=Abhishek%20Dwivedi&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%40%20ITSYBIZZ%20AI&descSize=20&descColor=ffffff&descAlign=50&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00c6ff,100:0072ff&section=header&text=Abhishek%20Dwivedi&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%40%20ITSYBIZZ%20AI&descSize=20&descColor=ffffff&descAlign=50&descAlignY=65" width="100%" />
 </div>
 
 <div align="center">
