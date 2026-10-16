@@ -69,17 +69,6 @@
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhi-sk7/abhi-sk7/output/github-snake-dark.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/abhi-sk7/abhi-sk7/output/github-snake.svg" />
-  </picture>
-</div>
-
-<br/>
-
 ## 📫 Connect
 
 <div align="center">
